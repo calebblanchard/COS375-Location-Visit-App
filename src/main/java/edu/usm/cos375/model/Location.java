@@ -1,6 +1,7 @@
 package edu.usm.cos375.model;
 
-public class Location {
+public class Location 
+{
     private int id;
     private String name;
     private String county;
@@ -8,5 +9,4 @@ public class Location {
     private float latitude;
     private float longitude;
     private String fieldWorker;
-    
 }
